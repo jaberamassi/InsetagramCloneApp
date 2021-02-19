@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="purple_200">#FFBB86FC</color>
+
+    <!--  Action bar & Buttons background     -->
+    <color name="purple_500">#5c32c7</color>
+
+    <!--  Status bar background  -->
+    <color name="purple_700">#5c32c7</color>
+
+    <!-- Color Of Line Under TextView  && Progress bar & radio buttons etc...-->
+    <color name="teal_200">#ff68a5</color>
+    <color name="teal_700">#FF5722</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#c2bdbf</color>
+    <color name="blue">#5552ff</color>
+
+
+
+
+</resources>

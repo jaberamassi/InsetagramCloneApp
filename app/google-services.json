@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325273133040",
+    "project_id": "insetagram-clone-app",
+    "storage_bucket": "insetagram-clone-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325273133040:android:448ad44fb25783228a4735",
+        "android_client_info": {
+          "package_name": "com.jaber.insetagramcloneapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325273133040-l7bvajr6nsva05uingeodvfil6e8elb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuCZjINMrIIxc3ZUnQtg6tE0Iw53M1k1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325273133040-l7bvajr6nsva05uingeodvfil6e8elb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

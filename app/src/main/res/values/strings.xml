@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Insetagram Clone App</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="favorite">Favorite</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_add_post">Add Post</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register_text">Let\'s start with creating account</string>
+</resources>
